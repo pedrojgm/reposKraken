@@ -4,6 +4,12 @@ public class Clase1 {
 	
 	private int variable2;
 	
+	public Clase1(int variable2) {
+		
+		
+		
+	}
+	
 	public int getVariable() {
 		
 		return variable2;
